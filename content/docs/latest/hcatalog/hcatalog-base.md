@@ -21,8 +21,6 @@ This is the HCatalog manual.  
 * [Notification]({{< ref "hcatalog-notification" >}})
 * [Storage Based Authorization]({{< ref "hcatalog-authorization" >}})
 
-The [old HCatalog wiki page](https://cwiki.apache.org/confluence/display/HCATALOG/Index) has many other documents including additional user documentation, further information on HBase integration, and resources for contributors.
-
 For information about the REST API for HCatalog, *WebHCat* (formerly *Templeton*), see the [WebHCat Manual]({{< ref "webhcat-base" >}}).
 
  

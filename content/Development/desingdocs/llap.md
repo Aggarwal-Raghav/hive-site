@@ -148,7 +148,7 @@ curl localhost:15002/peers
 
 ## SLIDER on YARN Deployment
 
-LLAP can be deployed via [Slider](https://cwiki.apache.org/confluence/display/SLIDER/Slider+Home), which bypasses node installation and related complexities [(HIVE-9883](https://issues.apache.org/jira/browse/HIVE-9883)).
+LLAP can be deployed via Slider, which bypasses node installation and related complexities [(HIVE-9883](https://issues.apache.org/jira/browse/HIVE-9883)).
 
 ## LLAP Status
 
@@ -188,7 +188,7 @@ The watch and running nodes options were added in release 2.2.0 with [HIVE-15217
 
 [LLAP Design Document](https://issues.apache.org/jira/secure/attachment/12665704/LLAPdesigndocument.pdf)
 
-[Hive Contributor Meetup Presentation](https://cwiki.apache.org/confluence/download/attachments/27362054/LLAP-Meetup-Nov.ppsx?version=1&modificationDate=1447885307000&api=v2)
+[Hive Contributor Meetup Presentation](https://hive.apache.org/attachments/27362054/LLAP-Meetup-Nov.ppsx)
 
 ## Attachments:
 
