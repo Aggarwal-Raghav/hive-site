@@ -89,6 +89,8 @@ Version
 
 The dbType "`mssql`" was added in Hive 0.13.1 with [HIVE-6862](https://issues.apache.org/jira/browse/HIVE-6862).
 
+As of [HIVE-29246](https://issues.apache.org/jira/browse/HIVE-29246), the Derby driver class name has been updated to `org.apache.derby.iapi.jdbc.AutoloadedDriver`. If you are using Derby, please ensure you use this new class name.
+
 ### Usage Examples
 
 * Initialize to current schema for a new Hive setup:

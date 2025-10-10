@@ -127,6 +127,8 @@ $ usage: schemaTool
 
 The **dbType** is required and can be one of:
 
+As of [HIVE-29246](https://issues.apache.org/jira/browse/HIVE-29246), the Derby driver class name has been updated to `org.apache.derby.iapi.jdbc.AutoloadedDriver`. If you are using Derby, please ensure you use this new class name.
+
 ```
  derby|mysql|postgres|oracle|mssql|hive
 ```
